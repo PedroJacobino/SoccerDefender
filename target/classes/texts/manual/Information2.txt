@@ -1,0 +1,15 @@
+Information Level
+ 
+Passing your cursor on the Players 
+will show their radius and Card 
+depending on the Information Level
+\n
+0: Does not show anything about the 
+Slicers or the Towers.
+1: Shows the Position of the Tower/
+Slicer, its radius and the Tower's 
+life
+2: Shows the Name and Card with 
+the Stats
+3: Shows the Shields around the 
+Slicers

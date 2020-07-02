@@ -1,0 +1,15 @@
+Information Showing
+ 
+Shields:
+Shields are shown around the players if
+they have them, and each shield's width 
+depends directly to its current resistance.
+\n
+SoccerBalls:
+SoccerBalls are shown around the Attacker,
+he has up to its Power number of Soccer 
+Balls, if there are more than 1 soccer 
+ball in the same position around the 
+player its Sprite will show a different 
+Ball to represent that there are 2 or 3 in
+the same spot around the player.

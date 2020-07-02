@@ -1,0 +1,10 @@
+Def Midfielder - DM
+ 
+Tower:
+Can only be placed in non blocked areas,
+Slows Down the Slicers in its radius.
+\n
+Slicer:
+Generates shields for the Slicer 
+companions, the shields' resistance 
+depend on his level

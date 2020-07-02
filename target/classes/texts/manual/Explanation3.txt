@@ -1,0 +1,9 @@
+Waves
+
+After a full Wave is done, you are 
+expected to press the 'S' on your keyboard
+to starts the next wave. Every time a Wave
+finishes all your Towers are put back into 
+the Panel and you can redesign your 
+strategy for the next level of players, with
+your new acquired players

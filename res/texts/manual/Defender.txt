@@ -1,0 +1,13 @@
+Defender - DF
+ 
+Tower:
+Can only be placed in the middle of the
+walking path Blocks the Slicers from 
+passing like a Wall and receive damage 
+from their power until it faints.
+\n
+Slicer:
+Has his own shield resistance which is 
+higher than the other Slicer's shields, 
+also can regenerate its own shield's 
+resistance, cannot receive shields from DM

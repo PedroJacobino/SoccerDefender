@@ -1,0 +1,13 @@
+Goalkeeper - GK
+ 
+Tower:
+Can only be placed in the middle of the
+walking path, deals an enormous amount
+of damage to the slicer, and throws him
+through the air.
+\n
+Slicer:
+Acts like a Regular Slicer, but can repel
+the Balls which were directed to him and
+inflict damage to the Attacker who tried
+to damage him.

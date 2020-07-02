@@ -1,0 +1,10 @@
+At Midfielder - AM
+ 
+Tower:
+Can only be placed in non blocked areas,
+Boosts the attack damage of the Attackers
+in his range.
+\n
+Slicer:
+Generates balls for the Attackers in its
+range and throws them to the Attackers.

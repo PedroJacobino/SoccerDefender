@@ -1,0 +1,13 @@
+SoccerDefend
+
+This Game was developed as an Extension
+to the Shadow Defend Assignment from 
+the Software Development class in the
+University of Melbourne.
+You will play with Brazilian Players as
+Towers, and Slicers will represent France, 
+Holland and Germany national teams.
+The Game complexity from transforming
+the stats in the Player card into actual 
+game attributes is explained in the Excel
+form with the files

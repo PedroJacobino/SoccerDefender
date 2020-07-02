@@ -1,0 +1,17 @@
+Waves
+
+Each Wave will have an incremented level
+of players in it, first all level 0 
+players from France, then Germany, then
+Holland will traverse the map, then 
+all level 1 or less from them and so on.
+There is 5 seconds between each WaveEvent
+so you can have time for putting back 
+Towers which died.
+Every time a wave finishes you get a new
+set of players you can use, there is no
+limit for Towers in the Map.
+After every WaveEvent all your Towers are
+regenerated and if they died you will be 
+able to use them again, unless they are 
+Goalkeepers.
